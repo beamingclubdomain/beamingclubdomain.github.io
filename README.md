@@ -1,0 +1,2 @@
+# beamingclubdomain.github.io
+hosting
